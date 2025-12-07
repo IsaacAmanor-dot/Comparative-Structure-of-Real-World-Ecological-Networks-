@@ -8,8 +8,8 @@
 
 This repository contains the full analytical workflow, Python code, figures, and metric tables for a comparative network analysis of two biological systems:
 
-- **Wild Bird Social Network** — RFID-based co-occurrence interactions among *Parus major*.  
-- **Scotch Broom Interaction Web** — Multi-trophic ecological network centered on *Cytisus scoparius*.
+- **Wild Bird Social Network** :RFID-based co-occurrence interactions among *Parus major*.  
+- **Scotch Broom Interaction Web**: Multi-trophic ecological network centered on *Cytisus scoparius*.
 
 The project examines structure, motifs, community organization, centrality, null models, and robustness to perturbations through a unified graph-theoretic framework.
 
@@ -29,10 +29,7 @@ The project examines structure, motifs, community organization, centrality, null
 
 ---
 
-## 📂 Repository Structure
 
-
----
 
 ## 📊 Key Results (Summary)
 
