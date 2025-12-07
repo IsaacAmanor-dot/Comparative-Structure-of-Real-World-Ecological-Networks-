@@ -58,7 +58,18 @@ The project examines structure, motifs, community organization, centrality, null
 
 ---
 
-## ▶️ Running the Full Pipeline
-```bash
-python src/run_all.py
+## 🧾 Citation
+
+If you use this repository, please cite:
+
+**Amanor, I. O., Glazer, M., & Donehuo, B. (2025).  
+*Comparative Structure of Real-World Ecological Networks: Wild Bird Social Network and Scotch Broom Interaction Web*.**
+
+---
+
+## 🙏 Acknowledgments  
+
+We acknowledge **Professor Chenyu** for supervising the project and  
+**Professor Philip Knight (AIMS South Africa, University of Strathclyde)**  
+for providing access to key datasets and guidance that made this study possible.
 
