@@ -57,6 +57,14 @@ The project examines structure, motifs, community organization, centrality, null
 - Both networks deviate strongly from ER and CM null models → non-random architecture.
 
 ---
+## 👥 Team Contributions
+
+| Team Member      | Contribution Description |
+|------------------|---------------------------|
+| **Isaac O. A.**  | Lead analysis, methodology design, Python scripting, and primary report writing. |
+| **Michael G.**   | Data curation, figure preparation, development of null-model simulations, and proofreading. |
+| **Bridget D.**   | Statistical comparison, literature review, ecological interpretation, and proofreading. |
+---
 
 ## 🧾 Citation
 
