@@ -30,3 +30,38 @@ The project examines structure, motifs, community organization, centrality, null
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 📊 Key Results (Summary)
+
+### **Structural Metrics**
+| Metric | Wildbird | Scotch |
+|-------|----------|--------|
+| Nodes | 169 | 154 |
+| Edges | 2758 | 366 |
+| Clustering (real) | 0.77 | 0.14 |
+| Modularity | 0.37 | 0.53 |
+| Louvain communities | 5 | 7 |
+| Triangles (real) | 27,886 | 358 |
+| 4-cycles (real) | 961,915 | 5,368 |
+
+### **Robustness (AUC values)**  
+| Strategy | Wildbird | Scotch |
+|----------|----------|--------|
+| Random | 0.48 | 0.37 |
+| Degree-targeted | 0.38 | 0.09 |
+| Betweenness-targeted | 0.25 | 0.07 |
+
+### **Interpretation**
+- Wildbird network: dense, highly clustered, strong redundancy.  
+- Scotch broom web: modular, trophically structured, more fragile under targeted attacks.  
+- Both networks deviate strongly from ER and CM null models → non-random architecture.
+
+---
+
+## ▶️ Running the Full Pipeline
+```bash
+python src/run_all.py
+
