@@ -63,14 +63,14 @@ The project examines structure, motifs, community organization, centrality, null
 |------------------|---------------------------|
 | **Isaac O. A.**  | Lead analysis, methodology design, Python scripting, and primary report writing. |
 | **Michael G.**   | Data curation, figure preparation, development of null-model simulations, and proofreading. |
-| **Bridget D.**   | Statistical comparison, literature review, ecological interpretation, and proofreading. |
+| **Bridget D.**   | Statistical comparison, literature review, ecological interpretation, link prediction,and proofreading. |
 ---
 
 ## 🧾 Citation
 
 If you use this repository, please cite:
 
-**Amanor, I. O., Glazer, M., & Donehuo, B. (2025).  
+**Amanor, I. O., Gleyzer, M., & Donohue, B. (2025).  
 *Comparative Structure of Real-World Ecological Networks: Wild Bird Social Network and Scotch Broom Interaction Web*.**
 
 ---
